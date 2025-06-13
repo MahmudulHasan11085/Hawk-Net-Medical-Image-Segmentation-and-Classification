@@ -1,7 +1,7 @@
 # Hawk-Net: Medical Image Segmentation and Classification
 
 **Preprint Available**: [SSRN - Hawk-Net Preprint](https://ssrn.com/abstract=5228325)  
-**Submission Status**: Under review at *Computer Vision and Image Understanding (CVIU)*.
+**Submission Status**: Under review at *Biomedical Signal Processing and Control (BSPC)*.
 
 ## Repository Status
 This repository is a **placeholder**. Full code, pretrained models, benchmarks, and implementation details will be released **after the paper's official publication**.
